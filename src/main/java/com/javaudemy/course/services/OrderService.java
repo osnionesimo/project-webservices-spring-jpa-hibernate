@@ -1,4 +1,4 @@
-package com.javaudemy.course.services.services;
+package com.javaudemy.course.services;
 
 import com.javaudemy.course.entities.Order;
 import com.javaudemy.course.repositories.OrderRepository;
